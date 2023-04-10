@@ -6,7 +6,7 @@
 
 2. Push the first link, and in the Oracle LiveLabs page search for ***Low Code Blockchain*** labs.
 <p align="center"  alt="Select The compartment where the instance of the founder organization will be created">
-<img width="860" height="390" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/images/2-dev-2-2.png"/>
+<img width="860" height="390" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-2.png"/>
 </p>
 
 3. Select the ***Developing Low Code Blockchain Applications using Apex and Blockchain App Builder*** lab.
