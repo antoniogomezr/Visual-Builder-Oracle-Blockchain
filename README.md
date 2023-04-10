@@ -46,4 +46,4 @@ This should take you directly to your remote desktop in a single click.
 <img width="790" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-10.png"/>
 </p>
 
-
+Once in your environment, open a terminal an execute "code" that will open Visual Studio.
