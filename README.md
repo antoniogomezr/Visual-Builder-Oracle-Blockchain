@@ -47,3 +47,6 @@ This should take you directly to your remote desktop in a single click.
 </p>
 
 Once in your environment, open a terminal an execute "code" that will open Visual Studio.
+<p align="center"  alt="App Builder in VSCode">
+<img width="840" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-11.png"/>
+</p>
