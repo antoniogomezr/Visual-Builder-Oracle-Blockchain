@@ -66,4 +66,7 @@ If you don't have an Oracle Blockchain Cloud Service environment set up, you can
 <img width="840" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-13.png"/>
 </p>
 
+You can also locally execute examples from @jvillenap github, always locally so NOT going through deployment into Founder or Participant steps:
 
+https://github.com/jvillenap/Using-NFT-and-FT-Tokens-in-Oracle-Blockchain/tree/main/03-Creation-and-Deployment-of-an-FT-SmartContract
+https://github.com/jvillenap/Using-NFT-and-FT-Tokens-in-Oracle-Blockchain/tree/main/04-Creation-and-Deployment-of-an-NFT-SmartContract
