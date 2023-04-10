@@ -1,4 +1,4 @@
-# Visual-Builder-Oracle-Blockchain
+# Blockchain App Builder VSCode Extension
 1. Search in Google for ***Oracle Live Labs***.
 <p align="center"  alt="find oracle live labs">
 <img width="577" height="212" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-1.png"/>
