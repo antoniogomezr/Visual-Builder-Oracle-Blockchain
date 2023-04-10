@@ -24,19 +24,19 @@
 <img width="790" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-5.png"/>
 </p>
 
-If you are new on OCI, no VNC will be abailable so you will need to create it.
+If you are new on OCI, no VNC will be available so you will need to create it.
 
-On the on the ***Prepare Setup***, you will only need to execute step 1.
+5.1. On the on the ***Prepare Setup***, you will only need to execute step 1.
 <p align="center"  alt="Select The compartment where the instance of the founder organization will be created">
 <img width="790" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-6.png"/>
 </p>
 
-On the ***Environment Setup*** follow Task 1A.
+5.2. On the ***Environment Setup*** follow Task 1A.
 <p align="center"  alt="Select The compartment where the instance of the founder organization will be created">
 <img width="790" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-7.png"/>
 </p>
 
-After all the work done, you will get the URL of the remote desktop to access your VS with Oracle Blockchain extension installed.
+6. After all the work done, you will get the URL of the remote desktop to access your VS with Oracle Blockchain extension installed.
 <p align="center"  alt="Select The compartment where the instance of the founder organization will be created">
 <img width="790" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-8.png"/>
 </p>
@@ -46,27 +46,29 @@ This should take you directly to your remote desktop in a single click.
 <img width="790" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-10.png"/>
 </p>
 
-Once in your environment, open a terminal an execute "code" that will open Visual Studio.
+7. Once in your environment, open a terminal an execute "code" that will open Visual Studio.
 <p align="center"  alt="App Builder in VSCode">
 <img width="840" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-11.png"/>
 </p>
 
-Your Blockchain App Builder VSCode Extension should be 22.4.3 and Go version 1.18.5.
-Check go version and if it is not 1.18.5 download from http://go.dev/dl/go1.18.5.linux-amd64.tar.gz
+8. Your Blockchain App Builder VSCode Extension should be 22.4.3 and Go version 1.18.5.
 
-If Blockchain App Builder VSCode Extension is not 22.4.3 you will need to unistalled and installed from oracle-ochain-extension-22.4.3.vsix file.
+8.1. Check go version and if it is not 1.18.5 download from http://go.dev/dl/go1.18.5.linux-amd64.tar.gz
 
-Once intalled, you should get this information from the VS Extension management module.
+8.2. If Blockchain App Builder VSCode Extension is not 22.4.3 you will need to unistalled and installed from oracle-ochain-extension-22.4.3.vsix file.
+
+8.3. Once intalled, you should get this information from the VS Extension management module.
 <p align="center"  alt="App Builder in VSCode">
 <img width="840" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-12.png"/>
 </p>
 
-If you don't have an Oracle Blockchain Cloud Service environment set up, you can locally execute tasks from 4 to 8 from the live lab and also locally test the chaincode.
+9. If you don't have an Oracle Blockchain Cloud Service environment set up:
+9.1. You can locally execute tasks from 4 to 8 from the live lab and also locally test the chaincode.
 <p align="center"  alt="App Builder in VSCode">
 <img width="840" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-13.png"/>
 </p>
 
-You can also locally execute examples from @jvillenap github, always locally so NOT going through deployment into Founder or Participant steps:
+9.2. You can also locally execute examples from @jvillenap github, always locally so NOT going through deployment into Founder or Participant steps:
 
 https://github.com/jvillenap/Using-NFT-and-FT-Tokens-in-Oracle-Blockchain/tree/main/03-Creation-and-Deployment-of-an-FT-SmartContract
 https://github.com/jvillenap/Using-NFT-and-FT-Tokens-in-Oracle-Blockchain/tree/main/04-Creation-and-Deployment-of-an-NFT-SmartContract
