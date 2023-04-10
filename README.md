@@ -19,7 +19,31 @@
 <img width="954" height="330" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-4.png"/>
 </p>
 
-5. Once you are inside the Lab, to get a cloud machine ready whith Visual Code Studio, and with the AppBuilder low code plugin installed on it, you only need to execute the ***Prepare Setup*** and ***Environment Setup*** steps, which should not take more than 25 minutes in total. 
+5. Once you are inside the Lab, to get a cloud machine ready whith Visual Code Studio, and with the AppBuilder low code plugin installed on it, you only need to execute step 1 on the ***Prepare Setup*** and ***Environment Setup*** steps, which should not take more than 25 minutes in total. 
 <p align="center"  alt="Select The compartment where the instance of the founder organization will be created">
 <img width="790" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-5.png"/>
 </p>
+
+If you are new on OCI, no VNC will be abailable so you will need to create it.
+
+On the on the ***Prepare Setup***, you will only need to execute step 1.
+<p align="center"  alt="Select The compartment where the instance of the founder organization will be created">
+<img width="790" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-6.png"/>
+</p>
+
+On the ***Environment Setup*** follow Task 1A.
+<p align="center"  alt="Select The compartment where the instance of the founder organization will be created">
+<img width="790" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-7.png"/>
+</p>
+
+After all the work done, you will get the URL of the remote desktop to access your VS with Oracle Blockchain extension installed.
+<p align="center"  alt="Select The compartment where the instance of the founder organization will be created">
+<img width="790" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-8.png"/>
+</p>
+
+This should take you directly to your remote desktop in a single click.
+<p align="center"  alt="Select The compartment where the instance of the founder organization will be created">
+<img width="790" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-10.png"/>
+</p>
+
+
