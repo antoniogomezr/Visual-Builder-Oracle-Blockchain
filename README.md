@@ -50,3 +50,16 @@ Once in your environment, open a terminal an execute "code" that will open Visua
 <p align="center"  alt="App Builder in VSCode">
 <img width="840" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-11.png"/>
 </p>
+
+Your Blockchain App Builder VSCode Extension should be 22.4.3 and Go version 1.18.5.
+Check go version and if it is not 1.18.5 download from http://go.dev/dl/go1.18.5.linux-amd64.tar.gz
+
+If Blockchain App Builder VSCode Extension is not 22.4.3 you will need to unistalled and installed from oracle-ochain-extension-22.4.3.vsix file.
+
+Once intalled, you should get this information from the VS Extension management module.
+<p align="center"  alt="App Builder in VSCode">
+<img width="840" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-12.png"/>
+</p>
+
+
+
