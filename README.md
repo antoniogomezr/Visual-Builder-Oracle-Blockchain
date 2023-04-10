@@ -61,5 +61,9 @@ Once intalled, you should get this information from the VS Extension management 
 <img width="840" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-12.png"/>
 </p>
 
+If you don't have an Oracle Blockchain Cloud Service environment set up, you can locally execute tasks from 4 to 8 from the live lab and also locally test the chaincode.
+<p align="center"  alt="App Builder in VSCode">
+<img width="840" height="525" src="https://github.com/antoniogomezr/Visual-Builder-Oracle-Blockchain/blob/main/images/2-dev-2-13.png"/>
+</p>
 
 
